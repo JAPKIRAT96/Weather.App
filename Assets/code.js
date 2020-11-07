@@ -150,7 +150,7 @@ async function getUvIndex(lat, lon) {
 //Clear Button
 $(document).ready(function () {
   $("#history-item").click(function () {
-    alert("Please Search Again!");
+    alert("Please Search Again");
   });
 });
 function Clearsearch() {
